@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido durante o NLW da rocketseat com as seguintes tecno
 
 ## 👁 View
 Você pode visualizar o projeto através 
-[desse link](https://jp-sampaio.github.io/nlw/){:target="_blank"}.
+<a href="https://jp-sampaio.github.io/nlw/" target="_blank"> desse link. </a>
